@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8QeCmPoiNo0/iyqh73QXCx0B8grIISDqujx/mxefLSg=",
+  "Source": "JustCommerce.Api",
+  "BasePath": "_content/JustCommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

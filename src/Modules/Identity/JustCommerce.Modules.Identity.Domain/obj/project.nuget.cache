@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ozm4AizP9fzCqI5yirIxBrrEqxzhr++Kbk1y4aHc9v0DveAi39sFERB5879sobkLHKYtmuc+iuBe7KciOplxdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Identity\\JustCommerce.Modules.Identity.Domain\\JustCommerce.Modules.Identity.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jablo\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jablo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

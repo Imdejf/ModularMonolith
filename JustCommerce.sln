@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{36279BED-CAAA-4A45-BA87-9F07F40649D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{8E266CEC-146E-48ED-88B4-5A50D1FF4D61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Api", "src\Presentations\JustCommerce.Api\JustCommerce.Api.csproj", "{234B5CE3-2FC3-4C72-8D55-B4771DADFAD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{A246C9E6-739D-40F8-BBCD-6FE18A15AD32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{28F6982A-A389-43C6-A2C4-9F925DC6A045}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Persistence", "src\Infrastructure\JustCommerce.Persistence\JustCommerce.Persistence.csproj", "{082C218D-71EC-41D4-802F-2A9EA8E6D469}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{8BA11A66-07E2-422C-A6A8-F332334E715B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Administration", "Administration", "{75C2A654-15AF-4E78-863C-0E2DDAA86F2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{29986185-2E33-481F-BD6E-179EAF2D608E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Modules.Identity.Application", "src\Modules\Identity\JustCommerce.Modules.Identity.Application\JustCommerce.Modules.Identity.Application.csproj", "{B304BD01-A191-4079-BE2E-E77B880EF8E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Modules.Identity.Domain", "src\Modules\Identity\JustCommerce.Modules.Identity.Domain\JustCommerce.Modules.Identity.Domain.csproj", "{3CC46E06-AAC6-4804-94AD-185DAE95C182}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Modules.Identity.Infrastructure", "src\Modules\Identity\JustCommerce.Modules.Identity.Infrastructure\JustCommerce.Modules.Identity.Infrastructure.csproj", "{18583F32-784A-4516-B62A-3E818252FD9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Modules.BuildingBlocks.Application", "src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\JustCommerce.Modules.BuildingBlocks.Application.csproj", "{44C938A6-3F8C-4D4B-AE61-9B49C224FB49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Modules.BuildingBlocks.Infrastructure", "src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Infrastructure\JustCommerce.Modules.BuildingBlocks.Infrastructure.csproj", "{563DA143-23C2-4660-A8DC-E864205CA80D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustCommerce.Modules.BuildingBlocks.Domain", "src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Domain\JustCommerce.Modules.BuildingBlocks.Domain.csproj", "{2A3E9BFB-C0F0-4DDB-BE91-D00A26F12E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustCommerce.Modules.BuildingBlocks.EventBus", "src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.EventBus\JustCommerce.Modules.BuildingBlocks.EventBus.csproj", "{C23EAD54-4547-46DD-984C-E3E438A81FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234B5CE3-2FC3-4C72-8D55-B4771DADFAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234B5CE3-2FC3-4C72-8D55-B4771DADFAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234B5CE3-2FC3-4C72-8D55-B4771DADFAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234B5CE3-2FC3-4C72-8D55-B4771DADFAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082C218D-71EC-41D4-802F-2A9EA8E6D469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082C218D-71EC-41D4-802F-2A9EA8E6D469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082C218D-71EC-41D4-802F-2A9EA8E6D469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082C218D-71EC-41D4-802F-2A9EA8E6D469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B304BD01-A191-4079-BE2E-E77B880EF8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304BD01-A191-4079-BE2E-E77B880EF8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304BD01-A191-4079-BE2E-E77B880EF8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304BD01-A191-4079-BE2E-E77B880EF8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC46E06-AAC6-4804-94AD-185DAE95C182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC46E06-AAC6-4804-94AD-185DAE95C182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC46E06-AAC6-4804-94AD-185DAE95C182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC46E06-AAC6-4804-94AD-185DAE95C182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18583F32-784A-4516-B62A-3E818252FD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18583F32-784A-4516-B62A-3E818252FD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18583F32-784A-4516-B62A-3E818252FD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18583F32-784A-4516-B62A-3E818252FD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C938A6-3F8C-4D4B-AE61-9B49C224FB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C938A6-3F8C-4D4B-AE61-9B49C224FB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C938A6-3F8C-4D4B-AE61-9B49C224FB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C938A6-3F8C-4D4B-AE61-9B49C224FB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563DA143-23C2-4660-A8DC-E864205CA80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563DA143-23C2-4660-A8DC-E864205CA80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563DA143-23C2-4660-A8DC-E864205CA80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563DA143-23C2-4660-A8DC-E864205CA80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3E9BFB-C0F0-4DDB-BE91-D00A26F12E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3E9BFB-C0F0-4DDB-BE91-D00A26F12E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3E9BFB-C0F0-4DDB-BE91-D00A26F12E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3E9BFB-C0F0-4DDB-BE91-D00A26F12E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23EAD54-4547-46DD-984C-E3E438A81FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23EAD54-4547-46DD-984C-E3E438A81FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23EAD54-4547-46DD-984C-E3E438A81FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23EAD54-4547-46DD-984C-E3E438A81FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E266CEC-146E-48ED-88B4-5A50D1FF4D61} = {36279BED-CAAA-4A45-BA87-9F07F40649D0}
+		{234B5CE3-2FC3-4C72-8D55-B4771DADFAD5} = {8E266CEC-146E-48ED-88B4-5A50D1FF4D61}
+		{A246C9E6-739D-40F8-BBCD-6FE18A15AD32} = {36279BED-CAAA-4A45-BA87-9F07F40649D0}
+		{28F6982A-A389-43C6-A2C4-9F925DC6A045} = {36279BED-CAAA-4A45-BA87-9F07F40649D0}
+		{082C218D-71EC-41D4-802F-2A9EA8E6D469} = {28F6982A-A389-43C6-A2C4-9F925DC6A045}
+		{8BA11A66-07E2-422C-A6A8-F332334E715B} = {36279BED-CAAA-4A45-BA87-9F07F40649D0}
+		{75C2A654-15AF-4E78-863C-0E2DDAA86F2A} = {8BA11A66-07E2-422C-A6A8-F332334E715B}
+		{29986185-2E33-481F-BD6E-179EAF2D608E} = {8BA11A66-07E2-422C-A6A8-F332334E715B}
+		{B304BD01-A191-4079-BE2E-E77B880EF8E2} = {29986185-2E33-481F-BD6E-179EAF2D608E}
+		{3CC46E06-AAC6-4804-94AD-185DAE95C182} = {29986185-2E33-481F-BD6E-179EAF2D608E}
+		{18583F32-784A-4516-B62A-3E818252FD9B} = {29986185-2E33-481F-BD6E-179EAF2D608E}
+		{44C938A6-3F8C-4D4B-AE61-9B49C224FB49} = {A246C9E6-739D-40F8-BBCD-6FE18A15AD32}
+		{563DA143-23C2-4660-A8DC-E864205CA80D} = {A246C9E6-739D-40F8-BBCD-6FE18A15AD32}
+		{2A3E9BFB-C0F0-4DDB-BE91-D00A26F12E1A} = {A246C9E6-739D-40F8-BBCD-6FE18A15AD32}
+		{C23EAD54-4547-46DD-984C-E3E438A81FB0} = {A246C9E6-739D-40F8-BBCD-6FE18A15AD32}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A742209-607A-47CF-86D0-0778749712DC}
+	EndGlobalSection
+EndGlobal

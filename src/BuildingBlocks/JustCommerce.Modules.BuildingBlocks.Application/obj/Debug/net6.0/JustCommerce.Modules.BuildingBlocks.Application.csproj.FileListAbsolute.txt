@@ -1,0 +1,15 @@
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.deps.json
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.pdb
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Domain.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Domain.pdb
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.csproj.AssemblyReference.cache
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.AssemblyInfoInputs.cache
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.AssemblyInfo.cs
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.csproj.CoreCompileInputs.cache
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.csproj.CopyComplete
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\refint\JustCommerce.Modules.BuildingBlocks.Application.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Application.pdb
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\BuildingBlocks\JustCommerce.Modules.BuildingBlocks.Application\obj\Debug\net6.0\ref\JustCommerce.Modules.BuildingBlocks.Application.dll

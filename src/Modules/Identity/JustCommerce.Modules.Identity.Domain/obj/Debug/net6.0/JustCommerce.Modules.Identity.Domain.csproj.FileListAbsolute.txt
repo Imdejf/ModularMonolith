@@ -1,0 +1,15 @@
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\bin\Debug\net6.0\JustCommerce.Modules.Identity.Domain.deps.json
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\bin\Debug\net6.0\JustCommerce.Modules.Identity.Domain.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\bin\Debug\net6.0\JustCommerce.Modules.Identity.Domain.pdb
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.AssemblyInfo.cs
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\refint\JustCommerce.Modules.Identity.Domain.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.pdb
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\ref\JustCommerce.Modules.Identity.Domain.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Domain.dll
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\bin\Debug\net6.0\JustCommerce.Modules.BuildingBlocks.Domain.pdb
+C:\Users\jablo\OneDrive\Pulpit\JustCommerce\JustCommerce.Backend\src\Modules\Identity\JustCommerce.Modules.Identity.Domain\obj\Debug\net6.0\JustCommerce.Modules.Identity.Domain.csproj.CopyComplete

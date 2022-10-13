@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MediatR/11.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+        }
+      },
+      "JustCommerce.Modules.Administration.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/JustCommerce.Modules.Administration.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JustCommerce.Modules.Administration.Application.dll": {}
+        }
+      },
+      "JustCommerce.Modules.Identity.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MediatR": "11.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JustCommerce.Modules.Identity.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JustCommerce.Modules.Identity.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatR/11.0.0": {
+      "sha512": "8klzVGZQiA2oxZRzQFBZbdPD/IQUm9RYtfiyTDKhxDQ99Gi93+GXt1ZJjH2D7Lh7ZFHCv5XdkwbmfHEQBCatPg==",
+      "type": "package",
+      "path": "mediatr/11.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.11.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/1.0.1": {
+      "sha512": "NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "type": "package",
+      "path": "mediatr.contracts/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.Contracts.dll",
+        "lib/net461/MediatR.Contracts.xml",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.1.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
+    "JustCommerce.Modules.Administration.Application/1.0.0": {
+      "type": "project",
+      "path": "../JustCommerce.Modules.Administration.Application/JustCommerce.Modules.Administration.Application.csproj",
+      "msbuildProject": "../JustCommerce.Modules.Administration.Application/JustCommerce.Modules.Administration.Application.csproj"
+    },
+    "JustCommerce.Modules.Identity.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Identity/JustCommerce.Modules.Identity.Application/JustCommerce.Modules.Identity.Application.csproj",
+      "msbuildProject": "../../Identity/JustCommerce.Modules.Identity.Application/JustCommerce.Modules.Identity.Application.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "JustCommerce.Modules.Administration.Application >= 1.0.0",
+      "JustCommerce.Modules.Identity.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jablo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Administration\\JustCommerce.Modules.Identity.Infrastructure\\JustCommerce.Modules.Identity.Infrastructure.csproj",
+      "projectName": "JustCommerce.Modules.Identity.Infrastructure",
+      "projectPath": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Administration\\JustCommerce.Modules.Identity.Infrastructure\\JustCommerce.Modules.Identity.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\jablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Administration\\JustCommerce.Modules.Identity.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Administration\\JustCommerce.Modules.Administration.Application\\JustCommerce.Modules.Administration.Application.csproj": {
+              "projectPath": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Administration\\JustCommerce.Modules.Administration.Application\\JustCommerce.Modules.Administration.Application.csproj"
+            },
+            "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Identity\\JustCommerce.Modules.Identity.Application\\JustCommerce.Modules.Identity.Application.csproj": {
+              "projectPath": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\Modules\\Identity\\JustCommerce.Modules.Identity.Application\\JustCommerce.Modules.Identity.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

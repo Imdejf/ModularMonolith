@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IzIiUoBswvBVr/sEcwmb0X4Q9NUEywuQfnsk6SjudF00eDx0CvsBMLOFkSxYWLnAT9+xxm8iks2YIMWuh+rZ9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jablo\\OneDrive\\Pulpit\\JustCommerce\\JustCommerce.Backend\\src\\BuildingBlocks\\JustCommerce.Modules.BuildingBlocks.Application\\JustCommerce.Modules.BuildingBlocks.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jablo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\jablo\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jablo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
